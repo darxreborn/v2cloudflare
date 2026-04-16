@@ -1,4 +1,4 @@
-name = "v2cloudflare"main = "src/index.ts"
+name = "v2cloudflare" main = "src/index.ts"
 compatibility_date = "2026-04-16"
 account_id = "ba0a3d371709ee38759a1ee2e652b428"
 
