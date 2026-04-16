@@ -1,8 +1,9 @@
-name = "v2cloudflare" main = "src/index.ts"
+name = "v2cloudflare"
+main = "src/index.ts"
 compatibility_date = "2026-04-16"
 account_id = "ba0a3d371709ee38759a1ee2e652b428"
 
 [vars]
-UUID = "85C3F92D-0AC3-4FBC-90AC-152FA0711803"
-DNS_RESOLVER_URL = "https://sky.rethinkdns.com/1:6IcAgAIAMgEsgMAAVDAgAAAI"
+UUID = "85c3f92d-0ac3-4fbc-90ac-152fa0711803"
+DNS_RESOLVER_URL = "https://dns.devok.store/dns-query"
 # PROXYIP = "" # Optional: Specify a proxy IP if needed
