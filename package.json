@@ -1,0 +1,20 @@
+{
+  "name": "v2cloudflare",
+  "version": "1.0.0",
+  "description": "VLESS proxy implementation for Cloudflare Workers",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20260413.1",
+    "typescript": "^5.7.3",
+    "wrangler": "^4.81.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
